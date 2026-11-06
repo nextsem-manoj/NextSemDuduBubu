@@ -1,6 +1,6 @@
-# 🐻🐼 Bubu & Dudu Kawaii Theme Suite
+# 🐻🐼 NextSemDuduBubu: Kawaii Theme Suite
 
-A multi-platform theme suite created from your sticker illustrations featuring **Bubu** (the panda bear) and **Dudu** (the brown bear).
+A multi-platform theme suite created for the **NextSem Ecosystem** from cute illustrations featuring **Bubu** (the panda bear) and **Dudu** (the brown bear).
 
 ---
 
